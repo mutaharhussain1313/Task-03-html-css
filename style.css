@@ -1,0 +1,75 @@
+.box1 {
+    border-style: solid;
+    position: relative;
+    left: 170px;
+    bottom: 281px;
+    display: inline-block;
+    background-image: url(./photo/mixup.jpg);
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 394px;
+    font-size: 60px;
+    padding-top: 150px;
+    padding-left: 40px;
+    color: aliceblue;
+    
+    
+}
+.box2 {
+    border-style: solid;
+    position: relative;
+    left: 162px;
+    display: inline-block;
+    position: relative;
+    width: 330px;
+    height: 419px;
+    padding: 60px;
+    
+}
+label {
+    display: block;
+    color: #607d8b;
+    
+}
+p {
+    color: #607d8b;
+}
+#user-name {
+    width: 270px;
+    height: 30px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+   
+    
+}
+#password {
+    width: 270px;
+    height: 30px;
+    border-radius: 5px;
+}
+#checkbox {
+    accent-color: teal;
+    margin-top: 30px;
+   
+}
+#forgetpassword {
+    position: relative;
+    bottom: 30px;
+    left: 220px;
+}
+.loginbutton {
+    width: 280px;
+    height: 35px;
+    border-radius: 3px;
+    background-color: rgb(9, 85, 106);
+    color: white;
+}
+#text {
+    color:#607d8b;
+}
+#signup {
+    position: relative;
+    left: 80px;
+    bottom: 35px;
+    color: rgb(20, 26, 202);
+}
